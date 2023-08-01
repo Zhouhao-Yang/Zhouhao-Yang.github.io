@@ -10,4 +10,3 @@ Abstract: In this letter, we present a differentially private algorithm which ac
 
 [Download paper here](http://Zhouhao-Yang.github.io/files/A_General_Framework_for_Accurate_and_Private_Mean_Estimation.pdf)
 
-Recommended citation: Z. Yang, X. Xu and Y. Gu, "A General Framework for Accurate and Private Mean Estimation," in IEEE Signal Processing Letters, vol. 29, pp. 2293-2297, 2022, doi: 10.1109/LSP.2022.3219356.
