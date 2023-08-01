@@ -83,11 +83,11 @@ author:
   name             : "Zhouhao Yang"
   avatar           : "profile.png"
   bio              : "I am a first-year PhD student in National Uiversity of Singapore. My research interests are among optimization for machine learning, high-dimensional statistics, and ML for PDE."
-  location         : "Location"
+  location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://Zhouhao-Yang.github.io" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://Zhouhao-Yang.github.io" #"http://yourfullgooglescholarurl.com"
+  email            : "zhouhao_yang@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://Zhouhao-Yang.github.io" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://Zhouhao-Yang.github.io" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
