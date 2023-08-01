@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhouhao Yang"
   avatar           : "profile.png"
-  bio              : "I am a first-year PhD student in National Uiversity of Singapore. My research interests are among optimization for machine learning, high-dimensional statistics, and ML for PDE."
+  bio              : "I am a first-year PhD student in the Department of Computer Science, National Uiversity of Singapore. My research interests span optimization for machine learning, high-dimensional statistics, and ML for PDE."
   location         : "Singapore"
   employer         :
   pubmed           : "https://Zhouhao-Yang.github.io" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
