@@ -10,4 +10,4 @@ Abstract: Learning an optimal policy from offline data is notoriously challengin
 
 [Download paper here](http://Zhouhao-Yang.github.io/files/yang23f.pdf)
 
-Recommended citation: Zhouhao Yang, Yihong Guo, Pan Xu, Anqi Liu, Animashree Anandkumar Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, PMLR 206:6443-6462, 2023.
+
