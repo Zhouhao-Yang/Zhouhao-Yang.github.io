@@ -2,7 +2,6 @@
 title: "Distributionally Robust Policy Gradient for Offline Contextual Bandits"
 collection: publications
 permalink: /publication/Distributionally Robust Policy Gradient for Offline Contextual Bandits
-excerpt: ''
 date: 2023
 venue: 'AISTATS'
 citation: 'Zhouhao Yang, Yihong Guo, Pan Xu, Anqi Liu, Animashree Anandkumar Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, PMLR 206:6443-6462, 2023.'
