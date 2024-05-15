@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : #"https://Zhouhao-Yang.github.io" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://Zhouhao-Yang.github.io" #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ETcGKeoAAAAJ&hl"
   email            : "zhouhao_yang@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zhouhao-Yang"
+  github           : "/Zhouhao-Yang"
   google_plus      :
   keybase          :
   instagram        :
