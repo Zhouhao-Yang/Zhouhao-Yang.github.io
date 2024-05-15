@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhouhao Yang / PhD"
+title                    : "Zhouhao Yang"
 title_separator          : "-"
 name                     : &name "Zhouhao Yang"
-description              : &description "I am a first-year PhD student in National Uiversity of Singapore."
+description              : &description "A PhD student at National University of Singapore."
 url                      : https://Zhouhao-Yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zhouhao-Yang/Zhouhao-Yang.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : https://github.com/Zhouhao-Yang
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : ## http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://Zhouhao-Yang.github.io" #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
