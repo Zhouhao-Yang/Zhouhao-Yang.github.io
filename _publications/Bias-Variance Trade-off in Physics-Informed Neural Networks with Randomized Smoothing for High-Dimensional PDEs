@@ -28,4 +28,4 @@ Abstract:  Physics-Informed Neural Networks (PINNs) have triggered a paradigm sh
  for selecting biased, unbiased, or hybrid versions, depending on the dimensionality and nonlinearity of the specific
  PDE problem.
 
-[Download paper here](http://Zhouhao-Yang.github.io/files/RS_PINNs.pdf)
+[Download paper here](http://Zhouhao-Yang.github.io/files/Bias-Variance Trade-off in Physics-Informed Neural Networks with Randomized Smoothing for High-dim PDEs.pdf)
