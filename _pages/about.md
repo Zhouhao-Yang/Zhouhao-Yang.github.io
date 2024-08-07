@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Zhouhao Yang's Personal Website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi! Welcome to my personal website!
 
 I am now a PhD student in the Department of Applied Mathematics and Statistics at the Johns Hopkins University. My research interests span AI for Science, high-dimensional statistics, optimization for ML, generative models, bandits, and information theory.
 
