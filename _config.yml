@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhouhao Yang"
 title_separator          : "-"
 name                     : &name "Zhouhao Yang"
-description              : &description "A PhD student at National University of Singapore."
+description              : &description "A PhD student at the Johns Hopkins University."
 url                      : https://Zhouhao-Yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zhouhao-Yang/Zhouhao-Yang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhouhao Yang"
   avatar           : "profile.JPG"
-  bio              : "National University of Singapore"
-  location         : "Singapore"
+  bio              : "Johns Hopkins University"
+  location         : "Baltimore, Maryland 21210"
   employer         :
   pubmed           : #"https://Zhouhao-Yang.github.io" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ETcGKeoAAAAJ&hl"
-  email            : "zhouhao_yang@u.nus.edu"
+  email            : "zyang145@jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
