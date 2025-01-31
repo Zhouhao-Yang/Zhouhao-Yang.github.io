@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhouhao Yang's Personal Website!"
+title: "Zhouhao Yang's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
