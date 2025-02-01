@@ -20,7 +20,7 @@ redirect_from:
 
 <br>
 
-<h2>Education</h2>
+<h2>Publications</h2>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
