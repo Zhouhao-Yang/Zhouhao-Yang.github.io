@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024fall-teaching-Introduction to Computational Mathematics
 venue: "Johns Hopkins University, Department of Applied Mathematics and Statistics"
+date: 2024-09-01
 semester: "Fall 2024"
 ---
 
