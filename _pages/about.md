@@ -13,3 +13,5 @@ I am currently a PhD student in the Department of Applied Mathematics and Statis
 From August 2023 to July 2024, I was a PhD student in the Department of Computer Science at the National University of Singapore, where I had the privilege of being advised by Professor Jonathan Scarlett and Professor Kenji Kawaguchi.
 
 I received my bachelor’s degree in Mathematics from Zhiyuan College, Shanghai Jiao Tong University.
+
+You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao Yang-20250113.pdf).
