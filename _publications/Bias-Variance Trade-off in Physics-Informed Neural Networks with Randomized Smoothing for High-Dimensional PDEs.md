@@ -3,8 +3,8 @@ title: "Bias-Variance Trade-off in Physics-Informed Neural Networks with Randomi
 collection: publications
 permalink: /publication/Bias-Variance Trade-off in Physics-Informed Neural Networks with Randomized Smoothing for High-Dimensional PDEs
 date: 2023.11.26
-venue: 'SIAM Journal of Computational Physics (under review)'
-citation: 'Z. Hu, Z. Yang, Y. Wang, G.E. Karniadakis, K. Kawaguchi, Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs, 2023, arXiv preprint arXiv:2311.15283.'
+venue: 'SIAM Journal on Scientific Computing'
+citation: 'Zheyuan Hu, Zhouhao Yang et al. "Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs." arXiv preprint arXiv:2311.15283 (2023).'
 ---
  In this paper, we present a comprehensive analysis of biases in RS-PINN, attributing them to the nonlinearity of the Mean Squared Error (MSE) loss as well 
  as the intrinsic
