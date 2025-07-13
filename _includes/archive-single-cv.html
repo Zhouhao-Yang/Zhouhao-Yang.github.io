@@ -26,14 +26,16 @@
           alt="">
       </div>
     {% endif %}
-
     <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
+    </h2>
+<!--     <h2 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h2> -->
 <!--     <h3 class="archive__item-title" itemprop="headline">
       {{ title }}
     </h3> -->
