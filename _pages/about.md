@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University. My research interests include continuous-time reinforcement learning, AI for science, and memory-efficient large language models.
+I am currently a PhD student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University. My research interests include continuous-time reinforcement learning, AI for science, and memory-efficient finetuning for large language models.
 
 From August 2023 to July 2024, I was a PhD student in the Department of Computer Science at the National University of Singapore, where I had the privilege of being advised by [Professor Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and [Professor Kenji Kawaguchi](https://ml.comp.nus.edu.sg/).
 
