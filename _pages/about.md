@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University. My research interests include reinforcement learning, diffusion model, stochastic control theory, mean field games and AI for science.
+I am currently a PhD student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University. My research interests include reinforcement learning, diffusion model, stochastic control theory, mean field games and AI for science. I am fortunate to be advised by [Professor Haoyang Cao](https://haoyang-cao.github.io/)
 
 From August 2023 to July 2024, I was a PhD student in the Department of Computer Science at the National University of Singapore, where I had the privilege of being advised by [Professor Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and [Professor Kenji Kawaguchi](https://ml.comp.nus.edu.sg/).
 
