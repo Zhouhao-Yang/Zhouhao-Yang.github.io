@@ -1,10 +1,11 @@
 ---
 title: "Heavy-Tailed Flow Matching via Random Clocks"
 collection: publications
+publication_status: submitted
 permalink: /publication/Heavy-Tailed Flow Matching via Random Clocks
 date: 2026-05-08
-venue: 'Neurips'
-citation: 'Zhouhao Yang, Yezhen Wang, Kenji Kawaguchi, Vladimir Braverman, Haoyang Cao'
+venue: 'NeurIPS'
+citation: 'Zhouhao Yang, Yezhen Wang, Kenji Kawaguchi, Vladimir Braverman, Haoyang Cao, "Heavy-Tailed Flow Matching via Random Clocks." Under review at NeurIPS 2026.'
 paperurl: 
 ---
 

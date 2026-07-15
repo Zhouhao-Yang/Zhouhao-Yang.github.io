@@ -1,6 +1,7 @@
 ---
 title: "A General Framework for Accurate and Private Mean Estimation"
 collection: publications
+publication_status: published
 permalink: /publication/A General Framework for Accurate and Private Mean Estimation
 date: 2022.11.03
 venue: 'IEEE Signal Processing Letters'

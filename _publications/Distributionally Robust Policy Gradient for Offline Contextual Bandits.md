@@ -1,6 +1,7 @@
 ---
 title: "Distributionally Robust Policy Gradient for Offline Contextual Bandits"
 collection: publications
+publication_status: published
 permalink: /publication/Distributionally Robust Policy Gradient for Offline Contextual Bandits
 date: 2023-02-27
 venue: 'AISTATS'
