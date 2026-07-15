@@ -1,5 +1,5 @@
 ---
-title: "TA for Introduction to Computational Mathematics"
+title: "TA for Introduction to Computational Mathematics (EN.553.385)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Department of Applied Mathematics and Statistics, Johns Hopkins University"
