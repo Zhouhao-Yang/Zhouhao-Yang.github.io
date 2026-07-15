@@ -1,5 +1,5 @@
 ---
-title: "Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients"
+title: "Unlocking More Granular Control of Memory-Efficient LLM Finetuning"
 collection: publications
 publication_status: to_appear
 permalink: /publication/Memory-Efficient-LLM-Training-by-Various-Grained-Low-Rank-Projection-of-Gradients
