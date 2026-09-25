@@ -14,4 +14,10 @@ From August 2023 to July 2024, I was a PhD student in the Department of Computer
 
 I received my bachelor’s degree in Mathematics from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
-You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20260715-q.pdf).
+You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20260924-q.pdf).
+
+## News
+
+- **September 2026:** Received the Rufus P. Isaacs Graduate Fellowship at Johns Hopkins University for the 2026–2027 academic year.
+- **September 2026:** Our paper, *Heavy-Tailed Flow Matching via Random Clocks*, was accepted to NeurIPS 2026.
+- **Fall 2026:** Serving as a teaching assistant for *Random Matrix Theory in Data Science and Statistics* (EN.553.796).
