@@ -14,7 +14,7 @@ From August 2023 to July 2024, I was a PhD student in the Department of Computer
 
 I received my bachelor’s degree in Mathematics from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
-You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20260924-q.pdf).
+You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20261025.pdf).
 
 ## News
 

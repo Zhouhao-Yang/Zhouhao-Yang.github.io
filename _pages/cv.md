@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20260924-q.pdf)
+[Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20261025.pdf)
 
 
 <h2>Education</h2>
