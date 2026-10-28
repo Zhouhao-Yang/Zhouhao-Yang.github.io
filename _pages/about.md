@@ -12,6 +12,8 @@ I am currently a PhD student in the [Department of Applied Mathematics and Stati
 
 From August 2023 to July 2024, I was a PhD student in the Department of Computer Science at the National University of Singapore, where I had the privilege of being advised by [Professor Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and [Professor Kenji Kawaguchi](https://ml.comp.nus.edu.sg/).
 
+I received my Master of Science in Engineering in Applied Mathematics and Statistics from Johns Hopkins University in August 2026.
+
 I received my bachelor’s degree in Mathematics from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
 You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20261025.pdf).
