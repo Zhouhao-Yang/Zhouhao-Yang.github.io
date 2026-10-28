@@ -2,10 +2,11 @@
 title: "Training-Free versus Training-Based Intent Classification in LLMs: Accuracy, Robustness, and Failure Modes"
 collection: publications
 publication_status: published
+display_first: true
 permalink: /publication/Fast Intent Classification for LLM Routing via Statistical Analysis of Representations
 date: 2026.01.01
 venue: 'COLM'
 citation: 'Zhouhao Yang*, Nan Chen*, Soufiane Hayou, "Training-Free versus Training-Based Intent Classification in LLMs: Accuracy, Robustness, and Failure Modes." in Third Conference on Language Modeling, 2026.'
-paperurl: 
+paperurl: https://openreview.net/forum?id=q8GCZ4sdSW
 ---
 

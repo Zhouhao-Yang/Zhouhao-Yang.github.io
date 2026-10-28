@@ -41,6 +41,13 @@ You can also find my articles on my [Google Scholar profile]({{ site.author.goog
 {% if published != empty %}
   <h2 class="archive__subtitle">Published</h2>
   {% for post in published %}
-    {% include archive-single.html %}
+    {% if post.display_first %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  {% for post in published %}
+    {% unless post.display_first %}
+      {% include archive-single.html %}
+    {% endunless %}
   {% endfor %}
 {% endif %}
