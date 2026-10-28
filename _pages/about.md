@@ -23,3 +23,4 @@ You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Y
 - **September 2026:** Received the Rufus P. Isaacs Graduate Fellowship at Johns Hopkins University for the 2026–2027 academic year.
 - **September 2026:** Our paper, *Heavy-Tailed Flow Matching via Random Clocks*, was accepted to NeurIPS 2026.
 - **Fall 2026:** Serving as a teaching assistant for *Random Matrix Theory in Data Science and Statistics* (EN.553.796).
+- **August 2026:** Received my Master of Science in Engineering in Applied Mathematics and Statistics from Johns Hopkins University.
