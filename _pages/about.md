@@ -16,7 +16,7 @@ I received my Master of Science in Engineering in Applied Mathematics and Statis
 
 I received my bachelor’s degree in Mathematics from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
-You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20261025.pdf).
+You may find my CV here: [Zhouhao Yang's Curriculum Vitae](/files/CV-Zhouhao%20Yang-20261123.pdf).
 
 ## News
 

@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Invited Talks"
+    url: /invited-talks/
+
   - title: "Internship"
     url: /internship/
 
@@ -22,7 +25,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV-Zhouhao%20Yang-20261025.pdf
+    url: /files/CV-Zhouhao%20Yang-20261123.pdf
     
   # - title: "Guide"
   #   url: /markdown/
